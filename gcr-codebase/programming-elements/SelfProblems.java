@@ -37,6 +37,8 @@ Miles = Kilometers * 0.621371. */
         System.out.println("Enter the kilometer:- ");
         int kil = sc.nextInt();
         System.out.println(kil*0.621371);
+
+        sc.close();
         
     }
 }
