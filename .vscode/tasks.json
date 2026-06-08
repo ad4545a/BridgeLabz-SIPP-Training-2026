@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Java: Compile and Run AssistedProblems1",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"${workspaceFolder}\\run-assisted-problem.ps1"
+			],
+			"group": "build",
+			"problemMatcher": []
+		},
+		{
+			"label": "Java: Compile and Run AssistedProblems1",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"${workspaceFolder}\\run-assisted-problem.ps1"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
