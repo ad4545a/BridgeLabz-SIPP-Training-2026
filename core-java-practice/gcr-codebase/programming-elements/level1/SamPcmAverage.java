@@ -7,3 +7,4 @@ public class SamPcmAverage {
         double average = total / 3.0;
         System.out.println("Sam’s average mark in PCM is " + average);
     }
+}
