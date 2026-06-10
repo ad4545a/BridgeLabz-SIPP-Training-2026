@@ -13,6 +13,7 @@ public class CoffeeCounter {
         int coffee = sc.nextInt();
         System.out.println("Enter the quantity: -");
         int quantity = sc.nextInt();
+        
         switch(coffee){
             case 1:
             bill += 50*quantity; 
