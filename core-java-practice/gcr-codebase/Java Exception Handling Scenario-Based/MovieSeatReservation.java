@@ -20,7 +20,7 @@ public class MovieSeatReservation {
         try {
             if (index < 0 || index >= seats.length) {
                 throw new IndexOutOfBoundsException("Invalid seat index: " + index + 
-                                                   ", Available: 0 to " + (seats.length - 1));
+                   ", Available: 0 to " + (seats.length - 1));
             }
             System.out.println("Seat found at position " + index + ": " + seats[index]);
             return seats[index];
