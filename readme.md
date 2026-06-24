@@ -15,9 +15,9 @@
 
 <br/>
 
-![Commits](https://img.shields.io/badge/Total_Commits-41-F89820?style=flat-square)
+![Commits](https://img.shields.io/badge/Total_Commits-43-F89820?style=flat-square)
 ![Branches](https://img.shields.io/badge/Branches-2-3B82F6?style=flat-square)
-![Topics](https://img.shields.io/badge/Topics_Covered-10-10B981?style=flat-square)
+![Topics](https://img.shields.io/badge/Topics_Covered-12-10B981?style=flat-square)
 ![Weeks](https://img.shields.io/badge/Weeks_Active-6-8B5CF6?style=flat-square)
 ![LeetCode](https://img.shields.io/badge/LeetCode_Solved-5+-FFA116?style=flat-square)
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=BridgeLabz+SIPP+Training+2026;Java+Full+Stack+Developer+Journey;41+Commits+and+Growing;Learning+DSA+OOPs+and+Java"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=BridgeLabz+SIPP+Training+2026;Java+Full+Stack+Developer+Journey;43+Commits+and+Growing;Learning+DSA+OOPs+and+Java"
     alt="Typing SVG"
   />
 </p>
@@ -56,7 +56,7 @@
 | Branch               | Focus                                                                | Commits | Status    |
 | -------------------- | -------------------------------------------------------------------- | :-----: | --------- |
 | `core-java-practice` | Core Java · LeetCode · Arrays · Strings · Methods · Exceptions · I/O |    33   | 🟢 Active |
-| `oops-practice`      | OOP · Classes · Constructors · Access Modifiers · Encapsulation      |    8    | 🟢 Active |
+| `oops-practice`      | OOP · Classes · Constructors · Access Modifiers · Encapsulation      |    10   | 🟢 Active |
 
 ---
 
@@ -65,7 +65,7 @@
 <div align="center">
 
 ```text
-June 8 ──────── June 10 ──── June 13 ──── June 16 ──── June 17-18 ──── June 23
+June 8 ──────── June 10 ──── June 13 ──── June 16 ──── June 17-18 ──── June 23-24
   │                 │            │             │              │              │
   W1                W2           W3            W4             W5            W6
 Foundation        Arrays       Strings      Methods       Exceptions      OOPs
@@ -88,14 +88,14 @@ Foundation        Arrays       Strings      Methods       Exceptions      OOPs
 | `2f60c07`                     | 🗑️ Cleaned up `.vscode` directory          |
 | `493f0fa`                     | 📁 Merged gcr-codebase → core-java-practice |
 | `85e6efe`                     | 🔧 raviProblem added                        |
-| `f24bb71`                     | ⚡ LeetCode #202 uploaded                    |
-| `eab5b8f`                     | ⚡ LeetCode #1281, #9, #13 uploaded          |
+| `f24bb71`                     | ⚡ LeetCode #202 uploaded                   |
+| `eab5b8f`                     | ⚡ LeetCode #1281, #9, #13 uploaded         |
 | `5b26a85`                     | ✏️ Main class edited                        |
 | `accc4bf`                     | 🎯 Level 1 programs uploaded                |
 | `ad00329`                     | 🎯 Level 2 programs uploaded                |
 | `e12bffd` `cad77ae` `a402e9f` | 🔀 Control Flow Level 1, 2, 3               |
 | `99ad3ed`                     | 🐛 Bug fixes and corrections                |
-| `d7376b2`                     | ⚡ LeetCode #1464 uploaded                   |
+| `d7376b2`                     | ⚡ LeetCode #1464 uploaded                  |
 
 ---
 
@@ -108,7 +108,7 @@ Foundation        Arrays       Strings      Methods       Exceptions      OOPs
 | `62bd0c4`           | 📊 Arrays Level 1 added                |
 | `ef6c79b`           | 📊 Arrays Level 2 added                |
 | `2f75057`           | 🔀 Moved L1 & L2 into `/basic`         |
-| `3cd5e43` `81685a4` | ☕ Coffee question uploaded             |
+| `3cd5e43` `81685a4` | ☕ Coffee question uploaded            |
 | `5623b82`           | ⚖️ BMI Index question submitted        |
 | `ebc1429`           | 🎰 Electronic Booth question submitted |
 
@@ -153,9 +153,9 @@ Foundation        Arrays       Strings      Methods       Exceptions      OOPs
 
 ---
 
-### 🗓️ Week 6 — June 23, 2026 · *OOPs Begins* 🚀
+### 🗓️ Week 6 — June 23–24, 2026 · *OOPs Begins* 🚀
 
-> **Branch:** `oops-practice` | **8 commits**
+> **Branch:** `oops-practice` | **10 commits**
 
 | Commit    | What was done                                                   |
 | --------- | --------------------------------------------------------------- |
@@ -167,19 +167,22 @@ Foundation        Arrays       Strings      Methods       Exceptions      OOPs
 | `c2d7065` | 🔐 Access Modifiers questions                                   |
 | `0bdb376` | 🎯 Scenario-Based OOPs questions                                |
 | `2a0585c` | 🔒 Scenario-Based Questions of Encapsulation                    |
+| `5d792dc` | 🧬 Scenario-Based Questions of Inheritance                      |
+| `4ef7313` | 🔌 Scenario-Based Questions of Interface                        |
+
 
 ---
 
 ## 📊 Stats
 
 ```text
-Total Commits : 41
-Topics Covered: 10
+Total Commits : 43
+Topics Covered: 12
 Weeks Active  : 6
 Branches      : 2
 
-core-java-practice  ████████████████████████████████░░  33 / 41 (80%)
-oops-practice       ████████░░░░░░░░░░░░░░░░░░░░░░░░░  8 / 41 (20%)
+core-java-practice  ████████████████████████████████░░  33 / 43 (77%)
+oops-practice       ██████████░░░░░░░░░░░░░░░░░░░░░░░ 10 / 43 (23%)
 ```
 
 ---
@@ -198,14 +201,16 @@ oops-practice       ████████░░░░░░░░░░░░
 | 8  | Classes & Objects               | `oops-practice`      | L1 · L2                         | OOP      |
 | 9  | Constructors & Access Modifiers | `oops-practice`      | L1 + Scenario                   | OOP      |
 | 10 | Encapsulation                   | `oops-practice`      | Scenario-Based                  | OOP      |
+| 11 | Inheritance                     | `oops-practice`      | Scenario-Based                  | OOP      |
+| 12 | Interface                       | `oops-practice`      | Scenario-Based                  | OOP      |
 
 ---
 
 ## 🚀 What's Next
 
-* [ ] Inheritance
+* [x] Inheritance
+* [x] Interfaces
 * [ ] Polymorphism
-* [ ] Interfaces
 * [ ] Abstract Classes
 * [ ] Collections Framework
 * [ ] Java Streams & Lambda Expressions
@@ -235,7 +240,9 @@ BridgeLabz-SIPP-Training-2026/
     ├── access-modifiers
     ├── instance-vs-class-variables
     ├── encapsulation
-    └── scenario-based
+    ├── inheritance
+    ├── interface
+    └── scenario-based   
 ```
 
 ---
