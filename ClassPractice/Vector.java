@@ -11,8 +11,6 @@ public static void main(String[] args) {
         numbers.firstElement());
 
         numbers.removeElementAt(1);
-        System.out.println("After removing second element: " +
-
-        numbers);
+        System.out.println("After removing second element: " + numbers);
     }
 }
